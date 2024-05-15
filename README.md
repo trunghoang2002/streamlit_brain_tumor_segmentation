@@ -1,4 +1,4 @@
-# Image captioning with encoder cnn & decoder lstm with attension network
+# Braintumor segmentation with Unet , Unet++ and Unet++ with sharpness
 
 ## How to run
 
