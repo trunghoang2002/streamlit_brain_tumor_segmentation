@@ -1,0 +1,11 @@
+# myenv/
+# get-pip.py
+__pycache__/
+images/
+models/
+notebooks/
+slides/
+test.py
+fastapi_server.py
+preprocessing.py
+test.py
